@@ -1,8 +1,8 @@
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *My Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Thomas Chandler**
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**My Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
 Time spent: **5** hours spent in total
 
